@@ -9,7 +9,6 @@ Hello, I’m Sydney. I'm a Graphic Design student at Algonquin College here in C
 - sydneymassiedowd@gmail.com
 - 613.983.4994
 
-
 [Behance](https://www.behance.net/SydneyDowd)
 [Dribble](https://dribbble.com/sydneydowd)
 [Linkedin](https://www.linkedin.com/pub/sydney-dowd/77/239/159)
