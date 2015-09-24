@@ -4,8 +4,6 @@
 
 Hello, I’m Sydney. I'm a Conceptual Designer here in Canada's capital – Ottawa.  I'm a problem solver and creative thinker with a passion for design. Less is more, my design's are minimal but stricking.
 
-
-
 ## Contact me
 
 - sydneymassiedowd@gmail.com
