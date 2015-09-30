@@ -9,6 +9,7 @@
     <link href="css/main.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width,initial-scale=1">
 </head>
+<html>
 <body>
  
 <header>
@@ -17,21 +18,23 @@
       <h1 class="yotta"><i>sd.</i></h1>
     </div>
     <div class="navigation mega pat-t unit unit-s-1-2 unit-m-1-2 unit-l-1-2">
-      <ul>
-        <li><a href=""><i>about</i></a></li>
-        <li><a href=""><i>work</i></a></li>
+      <ul class="nav">
+        <li><a href="#about"><i>about</i></a></li>
+        <li><a href="#work"><i>work</i></a></li>
       </ul>
     </div>
   </div>
 </header>
 
 <div class="content">
+  
+<main role="about" id="about">
 
 <div class="banner">
   <img class="profile" src="images/profile-fill.jpg" alt="profile picture">
 </div>
-  
 
+  
 <div class="pad-t name kilo">
   <p>Sydney Massie Dowd <br> <i>Graphic Designer</i></p>
 </div>
@@ -39,6 +42,8 @@
 <div class="bio pad-t">
   <p class="kilo">Hello, I’m Sydney. I'm a Graphic Design student at Algonquin College here in Canada's capital – Ottawa currently in my final year. I'm a problem solver and creative thinker with a passion for design.</p>
 </div>
+  
+<main role="work" id="work">
   
 <div class="work grid">
   <div class="unit unit-xs-1 unit-s-1 unit- unit-m-1-2 unit-l-1-2">
@@ -85,4 +90,10 @@
   </ul>
 </div>
 </footer> 
+<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.0/jquery.scrollTo.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-localScroll/1.4.0/jquery.localScroll.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.5/waypoints.min.js"></script>
+  <script src="js/main.js"></script>
 </body>
+</html>

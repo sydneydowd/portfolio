@@ -95,10 +95,6 @@ figure {
   vertical-align: middle;
 }
 
-.workprev:hover {
-  opacity: 0.4;
-}
-
 footer {
   background-color: white;
   border-top: solid thin #f0f4f6;
