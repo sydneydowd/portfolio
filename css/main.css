@@ -19,14 +19,14 @@ html {
 
 .static-bar {
   background-color: white;
-  border-bottom: solid #f0f4f6;
+  border-bottom: solid thin #f0f4f6;
   position: fixed;
   width:100%;
-  height:5em;
+  height:4em;
 }
 
 .logo {
-  padding-left: 3em;
+  padding-left: 5em;
   padding-bottom: 1em;
 }
 
@@ -42,7 +42,8 @@ li{
   padding-top: 2em;
   text-align: right;
   text-decoration: none;
-  padding-right: 3em;
+  padding-right: 5em;
+  align-content: center;
 }
 
 .banner {
@@ -80,6 +81,7 @@ a {
 
 a:hover {
   opacity: 0.2;
+  text-decoration: underline;
 }
 
 figure {
@@ -95,6 +97,13 @@ figure {
 
 .workprev:hover {
   opacity: 0.4;
+}
+
+footer {
+  background-color: white;
+  border-top: solid thin #f0f4f6;
+  width:100%;
+  height:5em;
 }
 
 

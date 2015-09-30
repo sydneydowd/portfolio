@@ -60,7 +60,7 @@ h3, .tera {
 }
 
 h4, .giga {
-  font-size: 1.2656rem;
+  font-size: 1.265rem;
   line-height: 1.1852;
 }
 
@@ -70,7 +70,7 @@ h5, .mega {
 }
 
 h6, .kilo {
-  font-size: 1.0000rem;
+  font-size: 0.875em;
   line-height: 1.5000;
 }
 
