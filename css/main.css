@@ -52,6 +52,10 @@ li{
   padding-top: 1em;
 }
 
+.project {
+  padding-top: 3em;
+}
+
 .bio {
   margin: 0 auto;
   text-align: center;
@@ -124,6 +128,14 @@ footer {
   body {
   padding:0;
   margin:0;
+  }
+  
+  .project {
+    padding-left: 1em;
+  }
+  
+  .project-about {
+    padding: 1em;
   }
     
 }
