@@ -96,8 +96,9 @@ footer {
 
 .hidden {
   color: white;
+  background: white;
+  border: solid thin #f0f4f6;
 }
-
 
 @media only screen and (min-width: 20em) {
   
@@ -106,7 +107,6 @@ footer {
   text-align: right;
   text-decoration: none;
   padding-right: 1em;
-  align-content: center;
 }
   
   .name {
@@ -137,8 +137,7 @@ footer {
   padding-top: 2em;
   text-align: right;
   text-decoration: none;
-  padding-right: 5em;
-  align-content: center;
+  padding-right: 6em;
 }
           
 }
