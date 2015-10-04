@@ -77,7 +77,6 @@ a:hover {
 figure {
   display: block;
   width: 100%;
-  padding: 2em;
 }
 
 .workprev{
@@ -127,7 +126,7 @@ footer {
 
 @media only screen and (min-width: 20em) {
   
-  .navigation{
+  .navigation {
   padding-top: 1em;
   text-align: right;
   text-decoration: none;
@@ -167,7 +166,7 @@ footer {
 @media only screen and (min-width: 44em) {
   
   .content {
-  max-width: 60em;
+  max-width: 50em;
   margin: 0 auto;
   padding-left: 2em;
   padding-right: 2em;
