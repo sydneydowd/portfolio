@@ -157,8 +157,9 @@ footer {
   }
   
    .logo {
-  padding-left: 2em;
+  padding-left: 1em;
   padding-bottom: 1em;
+
 }
     
 }
@@ -176,12 +177,12 @@ footer {
   padding-top: 1em;
   text-align: right;
   text-decoration: none;
-  padding-right: 6em;
+  padding-right: 7em;
   padding-top: 1.75em;
 }
   
   .logo {
-  padding-left: 5em;
+  padding-left: 7em;
   padding-bottom: 1em;
 }
           
@@ -197,7 +198,7 @@ footer {
 }
   
   .logo {
-  padding-left: 5em;
+  padding-left: 7em;
   padding-bottom: 1em;
 }
   
