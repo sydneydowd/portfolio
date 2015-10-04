@@ -98,6 +98,7 @@ footer {
 
 .caption {
   text-decoration: underline;
+  padding-left: .5em;
 } 
 
 .caption:hover {
