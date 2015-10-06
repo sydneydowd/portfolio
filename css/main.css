@@ -131,6 +131,14 @@ footer {
 
 @media only screen and (min-width: 20em) {
   
+  .next {
+    font-size: 0.75em;
+  }
+  
+  .previous {
+    font-size: 0.75em;
+  }
+  
   .navigation {
   padding-top: 1em;
   text-align: right;
@@ -170,6 +178,14 @@ footer {
 }
 
 @media only screen and (min-width: 44em) {
+  
+  .next {
+    font-size: 1em;
+  }
+  
+  .previous {
+    font-size: 1em;
+  }
   
   .content {
   max-width: 50em;
