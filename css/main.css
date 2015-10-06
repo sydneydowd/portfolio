@@ -22,7 +22,8 @@ html {
   border-bottom: solid thin #f0f4f6;
   position: fixed;
   width:100%;
-  height:4em;-
+  height:4em;
+  z-index: 1000;
 }
 
 li{
