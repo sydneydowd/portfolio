@@ -19,7 +19,7 @@ html {
 
 .static-bar {
   background-color: white;
-  border-bottom: solid thin #f0f4f6;
+  border-bottom: 2px solid #F8F8F8;
   position: fixed;
   width:100%;
   height:4em;
@@ -57,16 +57,13 @@ li{
 }
 
 .links {
+  margin: 0 auto;
   text-align: center;
 }
 
 a {
   color: #111111;
   text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 figure {
@@ -82,13 +79,9 @@ figure {
   width: 100%;
 }
 
-.workprev:hover{
-  opacity: 0.5;
-}
-
 footer {
   background-color: white;
-  border-top: solid thin #f0f4f6;
+  border-top: 2px solid #F8F8F8;
   width:100%;
   height:3em;
 }
@@ -100,12 +93,12 @@ footer {
 }
 
 .caption {
-  text-decoration: underline;
+  text-decoration: none;
   padding-left: 
 } 
 
 .caption:hover {
-  opacity: 0.6;
+  border-bottom: 2px solid;
 }
 
 .project-name {
@@ -145,7 +138,7 @@ footer {
   text-align: right;
   text-decoration: none;
   padding-right: 1em;
-  padding-top: 1.75em;
+  padding-top: 1.5em;
 }
   
   .name {
@@ -200,13 +193,22 @@ footer {
   text-align: right;
   text-decoration: none;
   padding-right: 7em;
-  padding-top: 1.75em;
+  padding-top: 1.25em;
 }
   
   .logo {
   padding-left: 7em;
   padding-bottom: 1em;
 }
+  
+  .bio {
+    padding-left: 0em;
+    padding-right: 0em;
+  }
+  
+  .name {
+    padding-left: 0em;
+  }
           
 }
 
