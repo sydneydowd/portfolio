@@ -19,10 +19,10 @@ html {
 
 .static-bar {
   background-color: white;
-  border-bottom: 2px solid #F8F8F8;
+  border-bottom: 3px solid #F8F8F8;
   position: fixed;
   width:100%;
-  height:4em;
+  height:5em;
   z-index: 1000;
 }
 
@@ -81,7 +81,7 @@ figure {
 
 footer {
   background-color: white;
-  border-top: 2px solid #F8F8F8;
+  border-top: 3px solid #F8F8F8;
   width:100%;
   height:3em;
 }
@@ -98,7 +98,7 @@ footer {
 } 
 
 .caption:hover {
-  border-bottom: 2px solid;
+  border-bottom: 3px solid;
 }
 
 .project-name {
@@ -139,6 +139,7 @@ footer {
   text-decoration: none;
   padding-right: 1em;
   padding-top: 1.5em;
+  padding-bottom: 1em;
 }
   
   .name {
