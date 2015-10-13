@@ -35,7 +35,7 @@ li{
 }
 
 .banner {
-    padding-top: 2em;
+  padding-top: 2em;
 }
  
 .profile {
@@ -164,8 +164,8 @@ footer {
   }
   
    .logo {
-  padding-left: 1em;
-  padding-bottom: 1em;
+    padding-left: 1em;
+    padding-bottom: 1em;
 
 }
     
@@ -182,23 +182,23 @@ footer {
   }
   
   .content {
-  max-width: 50em;
-  margin: 0 auto;
-  padding-left: 2em;
-  padding-right: 2em;
+    max-width: 50em;
+    margin: 0 auto;
+    padding-left: 2em;
+    padding-right: 2em;
 }
   
   .navigation{
-  padding-top: 1em;
-  text-align: right;
-  text-decoration: none;
-  padding-right: 7em;
-  padding-top: 1.25em;
+    padding-top: 1em;
+    text-align: right;
+    text-decoration: none;
+    padding-right: 7em;
+    padding-top: 1.25em;
 }
   
   .logo {
-  padding-left: 7em;
-  padding-bottom: 1em;
+    padding-left: 7em;
+    padding-bottom: 1em;
 }
   
   .bio {
@@ -215,15 +215,15 @@ footer {
 @media only screen and (min-width: 60em) {
   
 .content {
-  max-width: 50em;
-  margin: 0 auto;
-  padding-left: 2em;
-  padding-right: 2em;
+    max-width: 50em;
+    margin: 0 auto;
+    padding-left: 2em;
+    padding-right: 2em;
 }
   
   .logo {
-  padding-left: 7em;
-  padding-bottom: 1em;
+    padding-left: 7em;
+    padding-bottom: 1em;
 }
   
 }
