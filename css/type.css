@@ -1,5 +1,5 @@
 html {
-  font-family: 'Work Sans', sans-serif;
+  font-family:'Open Sans', sans-serif;
   color: #111111;
 }
 
@@ -75,12 +75,13 @@ h6, .kilo {
 }
 
 small, .milli {
-  font-size: 0.8889rem;
+  font-weight: bold;
+  font-size: 14px;
   line-height: 1.6875;
 }
 
 .micro {
-  font-size: 0.6901rem;
+  font-size: 12px;
   line-height: 1.8984;
 }
 
