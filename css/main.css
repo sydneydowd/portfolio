@@ -256,12 +256,12 @@ footer {
 }
   
   .prev {
-  padding-left: 20em;
+  padding-left: 7em;
 }
 
 .next {
   float: right;
-  padding-right: 20em;
+  padding-right: 7em;
 }
   
 }
