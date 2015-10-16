@@ -17,10 +17,6 @@ html {
   box-sizing: inherit;
 }
 
-.logo {
-  padding-bottom: 3em;
-}
-
 .static-bar {
   background-color: white;
   width:100%;
@@ -35,10 +31,6 @@ li{
   color: #58595b;
   text-decoration: none;
 }
-
-.banner {
-  padding-top: 2em;
-}
  
 .profile {
   display: block;
@@ -46,16 +38,12 @@ li{
   margin: 0;
 }
 
-.name {
-  padding-top: 1em;
-}
-
 .project {
   padding-top: 3em;
 }
 
 .work {
-  padding-top:1em;
+  padding-top: 1em;
 }
 
 .links {
@@ -112,20 +100,12 @@ footer {
   text-align: center;
 }
 
-.ido-about {
-  padding: 1em;
-}
-
-.logo-p {
-  padding: 0;
-}
-
 .email {
   text-align: center;
 }
 
 .email:hover {
-  opacity: 0.5;
+  opacity: 0.1;
 }
 
 .email-footer {
@@ -141,7 +121,7 @@ footer {
   text-align: right;
   text-decoration: none;
   padding-right: 1em;
-  padding-top: 2.25em;
+  padding-top: 3em;
   padding-bottom: 1em;
 }
   
@@ -201,7 +181,7 @@ footer {
     text-align: right;
     text-decoration: none;
     padding-right: 7em;
-    padding-top: 2em;
+    padding-top: 3em;
 }
   
   .logo {
@@ -251,8 +231,8 @@ footer {
     padding-top: 1em;
     text-align: right;
     text-decoration: none;
-    padding-right: 9em;
-    padding-top: 2.5em;
+    padding-right: 12em;
+    padding-top: 3em;
 }
   
   .prev {
