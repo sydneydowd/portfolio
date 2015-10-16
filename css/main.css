@@ -130,6 +130,10 @@ footer {
   padding: 0;
 }
 
+.email {
+  text-align: center;
+}
+
 @media only screen and (min-width: 20em) {
   
   .next {
@@ -157,7 +161,7 @@ footer {
     padding-left: 1em;
     padding-right: 1em;
     padding-top: 2em;
-    padding-bottom: 2em;
+    padding-bottom: 1em;
   }
   
   body {

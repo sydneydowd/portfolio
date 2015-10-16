@@ -75,7 +75,7 @@ h6, .kilo {
 }
 
 small, .milli {
-  font-weight: bold;
+  font-weight: medium;
   font-size: 14px;
   line-height: 1.6875;
 }
