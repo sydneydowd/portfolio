@@ -42,10 +42,6 @@ li{
   padding-top: 3em;
 }
 
-.work {
-  padding-top: 1em;
-}
-
 .links {
   margin: 0 auto;
   text-align: center;
@@ -58,10 +54,6 @@ a {
 
 figure {
   display: block;
-  width: 100%;
-}
-
-.work {
   width: 100%;
 }
 
@@ -123,6 +115,10 @@ footer {
   padding-bottom: 1em;
 }
   
+   figcaption {
+   padding-left: 0.5em;
+ }
+  
   .name {
     padding-left: 1em;
   }
@@ -160,10 +156,6 @@ footer {
     float: right;
     padding-right: 5em;
   }
-  
-  .work {
-  padding: 1em;
-}
 
 @media only screen and (min-width: 44em) {
   
@@ -204,10 +196,6 @@ footer {
     float: right;
     padding-right: 10em;
   }
-  
-    .work {
-  padding: 0;
-}
           
 }
 
