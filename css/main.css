@@ -76,7 +76,6 @@ footer {
 
 .caption {
   text-decoration: none;
-  padding-left: 
 } 
 
 .caption:hover {
@@ -149,12 +148,12 @@ footer {
    }
     
   .prev {
-    padding-left: 5em;
+    padding-left: 1em;
   }
 
   .next {
     float: right;
-    padding-right: 5em;
+    padding-right: 1em;
   }
 
 @media only screen and (min-width: 44em) {
