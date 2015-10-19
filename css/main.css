@@ -146,14 +146,13 @@ footer {
     padding-left: 1em;
     padding-bottom: 1em;
    }
-    
-  .prev {
-    padding-left: 1em;
+  
+  .prev-next {
+    margin: 0 auto;
   }
-
+  
   .next {
     float: right;
-    padding-right: 1em;
   }
 
 @media only screen and (min-width: 44em) {
@@ -185,17 +184,7 @@ footer {
   
   .name {
     padding-left: 0em;
-  }
-  
-  .prev {
-    padding-left: 10em;
-  }
-
-  .next {
-    float: right;
-    padding-right: 10em;
-  }
-          
+  }        
 }
 
 @media only screen and (min-width: 60em) {
@@ -218,15 +207,6 @@ footer {
     text-decoration: none;
     padding-right: 12em;
     padding-top: 3em;
-}
-  
-  .prev {
-  padding-left: 7em;
-}
-
-.next {
-  float: right;
-  padding-right: 7em;
 }
   
 }
