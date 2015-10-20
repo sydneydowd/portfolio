@@ -81,11 +81,6 @@ footer {
   border-bottom: 3px solid;
 }
 
-.project-name {
-  text-align: center;
-  padding-top: 2em;
-}
-
 .contact {
   text-align: center;
 }
@@ -139,6 +134,12 @@ footer {
   
   .project-about {
     padding: 1em;
+    text-align: center;
+  }
+  
+  .project-name {
+    padding-left: 1em;
+    text-align: center;
   }
   
    .logo {
