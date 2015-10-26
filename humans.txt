@@ -1,0 +1,20 @@
+# TEAM
+
+Designer & Developer: Sydney Dowd <me@sydneydowd.ca>
+Site: http://sydneydowd.github.io/portfolio/
+Github: https://github.com/sydneydowd
+Location: Ottawa, ON
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Git + Github
+- Brackets
+- Adobe Photoshop
+
+## Hosting
+
+- GitHub <https://github.com>
