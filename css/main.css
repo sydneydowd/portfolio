@@ -82,10 +82,10 @@ footer {
 .caption:hover {
   border-bottom: 3px solid;
   opacity: 0.5; 
-    -moz-transition: all 0.4s ease-out;  /* FF4+ */
-    -o-transition: all 0.4s ease-out;  /* Opera 10.5+ */
-    -webkit-transition: all 0.4s ease-out;  /* Saf3.2+, Chrome */
-    -ms-transition: all 0.4s ease-out;  /* IE10? */
+    -moz-transition: all 0.4s ease-out; 
+    -o-transition: all 0.4s ease-out; 
+    -webkit-transition: all 0.4s ease-out; 
+    -ms-transition: all 0.4s ease-out;  
     transition: all 0.4s ease-out; 
 }
 
@@ -109,6 +109,24 @@ footer {
 .small-bio {
   padding-left: 2em;
 }
+
+.skip-links {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.skip-links a {
+  position: absolute;
+  top:-3em;
+  color: white;
+  background-color: black;
+} 
+
+.skip-link a:focus {
+  top: 0;
+}
+
 @media only screen and (min-width: 20em) {
   
   

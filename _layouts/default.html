@@ -13,7 +13,13 @@
 </head>
 <body>
   
-  <header role="banner" class="nav-bar">
+  <ul class="skip-links">
+    <li><a href="#nav">Skip to Navigation</a></li>
+    <li><a href="#content">Skip to Content</a></li>
+    <li><a href="#footer">Skip to Footer</a></li>
+  </ul>
+  
+  <header role="banner" id="nav" id="top" class="nav-bar">
   <div class="grid">
     <div class="unit unit-xs-1-2 unit-s-1-2 unit-m-1-2 unit-l-1-2">
       <div class="pad-t logo">
@@ -31,13 +37,14 @@
   </div>
 </header>
 
-<main role="main" class="content">
+<main role="main" id="content" class="content">
   
   {{content}}
   
 </main>
   
-<footer role="footer" class="email-footer">
+<footer role="footer" id="footer" class="email-footer">
+  <a href="#top">Back to Top</a>
   <h2 class="email"><a href="mailto:sydneymassiedowd@gmail.com">me@sydneydowd.ca</a></h2>
 </footer>
   
