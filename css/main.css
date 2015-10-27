@@ -22,6 +22,7 @@ html {
   width:100%;
   height:5em;
   z-index: 2000;
+  position: fixed;
 }
 
 li{
@@ -75,10 +76,17 @@ footer {
 
 .caption {
   text-decoration: none;
+  opacity: 1;
 } 
 
 .caption:hover {
   border-bottom: 3px solid;
+  opacity: 0.5; 
+    -moz-transition: all 0.4s ease-out;  /* FF4+ */
+    -o-transition: all 0.4s ease-out;  /* Opera 10.5+ */
+    -webkit-transition: all 0.4s ease-out;  /* Saf3.2+, Chrome */
+    -ms-transition: all 0.4s ease-out;  /* IE10? */
+    transition: all 0.4s ease-out; 
 }
 
 .contact {
@@ -91,13 +99,16 @@ footer {
 }
 
 .email:hover {
-  opacity: 0.1;
+  opacity: 0.3;
 }
 
 .email-footer {
   padding-top: 2em;
 }
 
+.small-bio {
+  padding-left: 2em;
+}
 @media only screen and (min-width: 20em) {
   
   
@@ -185,19 +196,24 @@ footer {
   
   .name {
     padding-left: 0em;
-  }        
+  }  
+  
+  .project-about {
+    max-width: 40em;
+    margin: 0 auto;
+  }
 }
 
 @media only screen and (min-width: 60em) {
   
 .content {
-    max-width: 50em;
+    max-width: 60em;
     margin: 0 auto;
     padding-left: 2em;
     padding-right: 2em;
 }
   
-  .logo {
+.logo {
     padding-left: 9em;
     padding-bottom: 1em;
 }
@@ -209,5 +225,6 @@ footer {
     padding-right: 12em;
     padding-top: 2em;
 }
+  
   
 }
