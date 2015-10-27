@@ -35,7 +35,7 @@ li{
 }
 
 .content {
-  padding-top: 5em;
+  padding-top: 4em;
 }
  
 .profile {
@@ -101,14 +101,47 @@ footer {
 .email {
   text-align: center;
   font-size: 24px;
+  opacity: 1;
+  -moz-transition: all 0.4s ease-out; 
+    -o-transition: all 0.4s ease-out; 
+    -webkit-transition: all 0.4s ease-out; 
+    -ms-transition: all 0.4s ease-out;  
+    transition: all 0.4s ease-out;
 }
 
 .email:hover {
-  opacity: 0.3;
+  opacity: 0.2;
 }
 
 .email-footer {
   padding-top: 2em;
+}
+
+.logo {
+  font-size: 20px;
+  opacity: 1;
+  -moz-transition: all 0.4s ease-out; 
+    -o-transition: all 0.4s ease-out; 
+    -webkit-transition: all 0.4s ease-out; 
+    -ms-transition: all 0.4s ease-out;  
+    transition: all 0.4s ease-out;
+}
+
+.logo:hover {
+  opacity: 0.2;
+}
+
+.next {
+  opacity: 1;
+  -moz-transition: all 0.4s ease-out; 
+    -o-transition: all 0.4s ease-out; 
+    -webkit-transition: all 0.4s ease-out; 
+    -ms-transition: all 0.4s ease-out;  
+    transition: all 0.4s ease-out;
+}
+
+.next:hover {
+  opacity: 0.2;
 }
 
 .small-bio {
@@ -208,7 +241,7 @@ footer {
 }
   
   .logo {
-    padding-left: 7em;
+    padding-left: 4em;
     padding-bottom: 1em;
 }
   
