@@ -65,6 +65,17 @@ figure {
 
 .workprev{
   width: 100%;
+  opacity: 1;
+  text-decoration: none;
+  -moz-transition: all 0.4s ease-out; 
+  -o-transition: all 0.4s ease-out; 
+  -webkit-transition: all 0.4s ease-out; 
+  -ms-transition: all 0.4s ease-out;  
+  transition: all 0.4s ease-out;
+}
+
+.workprev:hover{
+  opacity: 0.5;
 }
 
 footer {
@@ -292,7 +303,7 @@ footer {
     text-align: right;
     text-decoration: none;
     padding-right: 12em;
-    padding-top: 2em;
+    padding-top: 2.5em;
 }
   
   
