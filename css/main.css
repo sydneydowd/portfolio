@@ -144,6 +144,19 @@ footer {
   opacity: 0.2;
 }
 
+.prev {
+  opacity: 1;
+  -moz-transition: all 0.4s ease-out; 
+    -o-transition: all 0.4s ease-out; 
+    -webkit-transition: all 0.4s ease-out; 
+    -ms-transition: all 0.4s ease-out;  
+    transition: all 0.4s ease-out;
+}
+
+.prev:hover {
+  opacity: 0.2;
+}
+
 .small-bio {
   padding-left: 2em;
 }
@@ -255,7 +268,7 @@ footer {
   }  
   
   .project-about {
-    max-width: 40em;
+    max-width: 65em;
     margin: 0 auto;
   }
 }
