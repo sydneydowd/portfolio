@@ -262,8 +262,9 @@ footer {
 }
   
   .bio {
-    padding-left: 0em;
-    padding-right: 0em;
+    max-width: 50em;
+    margin: 0 auto;
+    text-align: center;
   }
   
   .name {
@@ -271,7 +272,7 @@ footer {
   }  
   
   .project-about {
-    max-width: 65em;
+    max-width: 50em;
     margin: 0 auto;
   }
 }
