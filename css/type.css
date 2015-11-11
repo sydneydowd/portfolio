@@ -1,6 +1,6 @@
 html {
-  font-family:'Work Sans', sans-serif;
-  color: #111111;
+  font-family: 'Work Sans';
+  color: #141414;
 }
 
 @media only screen and (min-width: 60em) {
@@ -71,8 +71,9 @@ h6, .kilo {
 
 small, .milli {
   font-weight: medium;
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.6875;
+  font-family: 'Cousine' sans-serif;
 }
 
 .micro {
