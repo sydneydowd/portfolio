@@ -5,4 +5,28 @@
     <loc>http://sydneydowd.ca/</loc>
     <priority>1.0</priority>
   </url>
+  
+  <url>
+    <loc>http://sydneydowd.ca/portfolio/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sydneydowd.ca/portfolio/tomaso/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sydneydowd.ca/portfolio/myflight/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sydneydowd.ca/portfolio/decadent/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sydneydowd.ca/portfolio/kilter/</loc>
+  </url>
+  
+  <url>
+    <loc>http://sydneydowd.ca/portfolio/estate/</loc>
+  </url>
 </urlset>
