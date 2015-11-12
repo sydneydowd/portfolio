@@ -1,5 +1,5 @@
 html {
-  font-family: 'Work Sans';
+  font-family: 'Cutive Mono' ;
   color: #141414;
 }
 
@@ -73,7 +73,6 @@ small, .milli {
   font-weight: medium;
   font-size: 12px;
   line-height: 1.6875;
-  font-family: 'Cousine' sans-serif;
 }
 
 .micro {
