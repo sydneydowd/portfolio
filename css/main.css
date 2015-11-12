@@ -118,6 +118,7 @@ footer {
 }
 
 .logo {
+  font-family: 'Work Sans';
   font-size: 20px;
   opacity: 1;
   -moz-transition: all 0.4s ease-out; 
@@ -220,6 +221,7 @@ footer {
   }
   
   .project-name {
+    font-family: 'Work Sans';
     padding-left: 1em;
     text-align: center;
   }
