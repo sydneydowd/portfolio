@@ -20,8 +20,8 @@ html {
 .nav-bar {
   background-color: white;
   width:100%;
-  height:5em;
-  z-index: 2000;
+  height:2em;
+  z-index: 1000;
   top:0;
 }
 
