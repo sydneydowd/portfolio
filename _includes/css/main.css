@@ -182,6 +182,10 @@ footer {
     top: 0;
 }
 
+.padding {
+  padding: 1em;
+}
+
 @media only screen and (min-width: 20em) {
   
   
@@ -243,7 +247,7 @@ footer {
 @media only screen and (min-width: 44em) {
   
   .content {
-    max-width: 50em;
+    max-width: 60em;
     margin: 0 auto;
     padding-left: 2em;
     padding-right: 2em;
@@ -275,7 +279,7 @@ footer {
 @media only screen and (min-width: 60em) {
   
 .content {
-    max-width: 50em;
+    max-width: 60em;
     margin: 0 auto;
     padding-left: 2em;
     padding-right: 2em;
