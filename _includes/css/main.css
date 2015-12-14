@@ -17,6 +17,10 @@ html {
   box-sizing: inherit;
 }
 
+.diabetes-pad {
+  padding: .25em;
+}
+
 .embed {
     position: relative;
 }
