@@ -281,12 +281,12 @@ footer {
     padding-top: 1em;
     text-align: right;
     text-decoration: none;
-    padding-right: 7em;
+    padding-right: 14em;
     padding-top: 2em;
 }
   
   .logo {
-    padding-left: 4.5em;
+    padding-left: 8.5em;
     padding-bottom: 1em;
 }
   
@@ -303,7 +303,7 @@ footer {
 @media only screen and (min-width: 60em) {
   
 .content {
-    max-width: 70em;
+    max-width: 60em;
     margin: 0 auto;
     padding-left: 2em;
     padding-right: 2em;
