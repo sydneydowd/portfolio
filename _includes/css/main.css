@@ -96,6 +96,10 @@ figure {
   opacity: 0.6;
 }
 
+.work-images {
+  width: 100%;
+}
+
 footer {
   background-color: white;
   height:3em;
