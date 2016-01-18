@@ -1,8 +1,8 @@
 html {
-  font-family: 'avenir', sans-serif;
+  font-family: 'Work Sans', sans-serif;
   font-kerning: 5px;
-  font-weight: lighter;
   color: #141414;
+  -webkit-font-smoothing: antialiased;
 }
 
 @media only screen and (min-width: 60em) {
