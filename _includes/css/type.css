@@ -1,7 +1,6 @@
 html {
   font-family: 'Work Sans', sans-serif;
   font-kerning: none;
-  font-weight: 200;
   color: #141414;
 }
 
@@ -55,6 +54,7 @@ font-weight: normal;
 h1, .exa {
   font-size: 24px;
   line-height: 1.6648;
+  font-weight: 300;
 }
 
 h3, .tera {
