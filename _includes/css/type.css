@@ -1,5 +1,7 @@
 html {
   font-family: 'Work Sans', sans-serif;
+  font-kerning: none;
+  font-weight: 200;
   color: #141414;
 }
 
