@@ -286,12 +286,12 @@ footer {
 @media only screen and (min-width: 44em) {
   
   .content {
-    max-width: 50em;
+    max-width: 45em;
     margin: 0 auto;
 }
   
   .banner-width {
-    max-width: 50em;
+    max-width: 45em;
     margin: 0 auto;
   }
   
@@ -319,12 +319,12 @@ footer {
 @media only screen and (min-width: 60em) {
   
 .content {
-    max-width: 60em;
+    max-width: 55em;
     margin: 0 auto;
 }
   
   .banner-width {
-    max-width: 60em;
+    max-width: 55em;
     margin: 0 auto;
 }
   
